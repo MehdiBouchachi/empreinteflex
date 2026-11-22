@@ -1,0 +1,30 @@
+import Link from "next/link";
+
+export default function Breadcrumb({ items }) {
+  return (
+    <div className="flex flex-wrap items-center gap-2 text-xs sm:text-sm text-slate-500 mb-4 sm:mb-6">
+      {items.map((item, index) => {
+        const isLast = index === items.length - 1;
+
+        return (
+          <div key={index} className="flex items-center gap-2">
+            {item.href && !isLast ? (
+              <Link
+                href={item.href}
+                className="hover:text-blue-700 transition"
+              >
+                {item.label}
+              </Link>
+            ) : (
+              <span className={isLast ? "text-blue-950 font-medium" : ""}>
+                {item.label}
+              </span>
+            )}
+
+            {!isLast && <span>/</span>}
+          </div>
+        );
+      })}
+    </div>
+  );
+}

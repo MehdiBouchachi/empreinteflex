@@ -1,0 +1,182 @@
+[
+  {
+    "categoryCode": "MATTRESS",
+    "slug": "hr-d45-comfort",
+    "name": {
+      "fr": "Confort HR D45",
+      "en": "HR D45 Comfort",
+      "ar": "راحة HR D45"
+    },
+    "description": {
+      "fr": "Démonstration Confort HR D45 — remplacez le texte et le prix par vos données vérifiées.",
+      "en": "Demo HR D45 Comfort — replace text and pricing with verified business data.",
+      "ar": "منتج تجريبي راحة HR D45 — يرجى تحديث الأسعار والوصف من بيانات المتجر الحقيقية."
+    },
+    "range": "multi-layer",
+    "subcategory": "confort",
+    "pricingType": "VARIANT_FULL",
+    "basePriceMinor": 2690000
+  },
+  {
+    "categoryCode": "MATTRESS",
+    "slug": "premium-spring",
+    "name": {
+      "fr": "Premium Spring",
+      "en": "Premium Spring",
+      "ar": "بريميوم سبرينغ"
+    },
+    "description": {
+      "fr": "Démonstration Premium Spring — remplacez le texte et le prix par vos données vérifiées.",
+      "en": "Demo Premium Spring — replace text and pricing with verified business data.",
+      "ar": "منتج تجريبي بريميوم سبرينغ — يرجى تحديث الأسعار والوصف من بيانات المتجر الحقيقية."
+    },
+    "range": "spring",
+    "subcategory": "spring-premium",
+    "pricingType": "VARIANT_FULL",
+    "basePriceMinor": 4850000
+  },
+  {
+    "categoryCode": "MATTRESS",
+    "slug": "orthoflex-comfort",
+    "name": {
+      "fr": "OrthoFlex Confort",
+      "en": "OrthoFlex Comfort",
+      "ar": "أورتوفليكس كونفور"
+    },
+    "description": {
+      "fr": "Démonstration OrthoFlex Confort — remplacez le texte et le prix par vos données vérifiées.",
+      "en": "Demo OrthoFlex Comfort — replace text and pricing with verified business data.",
+      "ar": "منتج تجريبي أورتوفليكس كونفور — يرجى تحديث الأسعار والوصف من بيانات المتجر الحقيقية."
+    },
+    "range": "multi-layer",
+    "subcategory": "confort",
+    "pricingType": "VARIANT_FULL",
+    "basePriceMinor": 3200000
+  },
+  {
+    "categoryCode": "MATTRESS",
+    "slug": "d30-mattress",
+    "name": {
+      "fr": "Matelas D30",
+      "en": "D30 Mattress",
+      "ar": "مرتبة D30"
+    },
+    "description": {
+      "fr": "Démonstration Matelas D30 — remplacez le texte et le prix par vos données vérifiées.",
+      "en": "Demo D30 Mattress — replace text and pricing with verified business data.",
+      "ar": "منتج تجريبي مرتبة D30 — يرجى تحديث الأسعار والوصف من بيانات المتجر الحقيقية."
+    },
+    "range": "classic",
+    "subcategory": "roll",
+    "pricingType": "VARIANT_FULL",
+    "basePriceMinor": 1850000
+  },
+  {
+    "categoryCode": "MATTRESS",
+    "slug": "d36-mattress",
+    "name": {
+      "fr": "Matelas D36",
+      "en": "D36 Mattress",
+      "ar": "مرتبة D36"
+    },
+    "description": {
+      "fr": "Démonstration Matelas D36 — remplacez le texte et le prix par vos données vérifiées.",
+      "en": "Demo D36 Mattress — replace text and pricing with verified business data.",
+      "ar": "منتج تجريبي مرتبة D36 — يرجى تحديث الأسعار والوصف من بيانات المتجر الحقيقية."
+    },
+    "range": "classic",
+    "subcategory": "open",
+    "pricingType": "VARIANT_FULL",
+    "basePriceMinor": 2200000
+  },
+  {
+    "categoryCode": "MATTRESS",
+    "slug": "visco-confort",
+    "name": {
+      "fr": "Visco Confort",
+      "en": "Visco Comfort",
+      "ar": "فيسكو كونفور"
+    },
+    "description": {
+      "fr": "Démonstration Visco Confort — remplacez le texte et le prix par vos données vérifiées.",
+      "en": "Demo Visco Comfort — replace text and pricing with verified business data.",
+      "ar": "منتج تجريبي فيسكو كونفور — يرجى تحديث الأسعار والوصف من بيانات المتجر الحقيقية."
+    },
+    "range": "multi-layer",
+    "subcategory": "visco",
+    "pricingType": "VARIANT_FULL",
+    "basePriceMinor": 3900000
+  },
+  {
+    "categoryCode": "MATTRESS",
+    "slug": "viscoflex",
+    "name": {
+      "fr": "ViscoFlex",
+      "en": "ViscoFlex",
+      "ar": "فيسكوفليكس"
+    },
+    "description": {
+      "fr": "Démonstration ViscoFlex — remplacez le texte et le prix par vos données vérifiées.",
+      "en": "Demo ViscoFlex — replace text and pricing with verified business data.",
+      "ar": "منتج تجريبي فيسكوفليكس — يرجى تحديث الأسعار والوصف من بيانات المتجر الحقيقية."
+    },
+    "range": "multi-layer",
+    "subcategory": "visco-plus",
+    "pricingType": "VARIANT_FULL",
+    "basePriceMinor": 4400000
+  },
+  {
+    "categoryCode": "MATTRESS",
+    "slug": "prestige-spring",
+    "name": {
+      "fr": "Prestige Spring",
+      "en": "Prestige Spring",
+      "ar": "بريستيج سبرينغ"
+    },
+    "description": {
+      "fr": "Démonstration Prestige Spring — remplacez le texte et le prix par vos données vérifiées.",
+      "en": "Demo Prestige Spring — replace text and pricing with verified business data.",
+      "ar": "منتج تجريبي بريستيج سبرينغ — يرجى تحديث الأسعار والوصف من بيانات المتجر الحقيقية."
+    },
+    "range": "spring",
+    "subcategory": "spring-prestige",
+    "pricingType": "VARIANT_FULL",
+    "basePriceMinor": 5700000
+  },
+  {
+    "categoryCode": "PILLOW",
+    "slug": "oreiller-confort",
+    "name": {
+      "fr": "Oreiller Confort",
+      "en": "Comfort Pillow",
+      "ar": "وسادة مريحة"
+    },
+    "description": {
+      "fr": "Démonstration Oreiller Confort — remplacez le texte et le prix par vos données vérifiées.",
+      "en": "Demo Comfort Pillow — replace text and pricing with verified business data.",
+      "ar": "منتج تجريبي وسادة مريحة — يرجى تحديث الأسعار والوصف من بيانات المتجر الحقيقية."
+    },
+    "range": "oreiller",
+    "subcategory": "comfort-pillows",
+    "pricingType": "SIMPLE",
+    "basePriceMinor": 350000
+  },
+  {
+    "categoryCode": "TOPPER",
+    "slug": "surmatelas-confort",
+    "name": {
+      "fr": "Sur-matelas Confort",
+      "en": "Comfort Mattress Topper",
+      "ar": "طبقة مرتبة مريحة"
+    },
+    "description": {
+      "fr": "Démonstration Sur-matelas Confort — remplacez le texte et le prix par vos données vérifiées.",
+      "en": "Demo Comfort Mattress Topper — replace text and pricing with verified business data.",
+      "ar": "منتج تجريبي طبقة مرتبة مريحة — يرجى تحديث الأسعار والوصف من بيانات المتجر الحقيقية."
+    },
+    "range": "sur-matelas",
+    "subcategory": "classic-topper",
+    "pricingType": "VARIANT_DIMENSION",
+    "basePriceMinor": 1100000
+  }
+]

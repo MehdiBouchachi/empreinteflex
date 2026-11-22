@@ -1,0 +1,24 @@
+# Local / evaluation configuration; ports exposed as localhost:8080 / localhost:8081.
+# TLS production file is infra/caddy/Caddyfile.production.example.
+:80 {
+  encode zstd gzip
+  header Referrer-Policy "strict-origin-when-cross-origin"
+  @backend path /v1/* /health/* /docs /docs/*
+  handle @backend {
+    reverse_proxy api:3000
+  }
+  handle {
+    reverse_proxy storefront:3000
+  }
+}
+:81 {
+  encode zstd gzip
+  header Referrer-Policy "strict-origin-when-cross-origin"
+  @backend path /v1/* /health/* /docs /docs/*
+  handle @backend {
+    reverse_proxy api:3000
+  }
+  handle {
+    reverse_proxy staff:80
+  }
+}

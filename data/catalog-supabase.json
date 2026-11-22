@@ -1,0 +1,2375 @@
+[
+  {
+    "legacyId": 1,
+    "slug": "d36-mattress",
+    "name": {
+      "ar": "مرتبة D36",
+      "en": "D36 Mattress",
+      "fr": "Matelas D36"
+    },
+    "description": {
+      "ar": "مرتبة إسفنج D36 براحة أكثر ثباتا ودرجة صلابة أعلى قليلا لدعم أفضل للجسم.",
+      "en": "D36 foam mattress with more stable comfort and slightly firmer support for better body alignment.",
+      "fr": "Matelas en mousse D36 avec un confort plus stable et une fermeté légèrement supérieure pour un meilleur maintien."
+    },
+    "categoryCode": "MATTRESS",
+    "featured": false,
+    "discountPercent": "0",
+    "metadata": {
+      "legacySupabaseId": 1,
+      "legacyAvailable": true,
+      "range": "classic",
+      "subcategory": "open",
+      "categoryTranslations": {
+        "ar": "الفئة الكلاسيكية",
+        "en": "Classic Range",
+        "fr": "Gamme Classique"
+      },
+      "subcategoryTranslations": {
+        "ar": "مفتوحة",
+        "en": "Open Form",
+        "fr": "Ouvert"
+      },
+      "pricingType": "VARIANT_FULL",
+      "technicalSpecs": [
+        {
+          "label": "Gamme",
+          "value": "Économique"
+        },
+        {
+          "label": "Type",
+          "value": "Mousse"
+        },
+        {
+          "label": "Confort",
+          "value": "Stable"
+        },
+        {
+          "label": "Soutien",
+          "value": "Bon"
+        },
+        {
+          "label": "Technologie",
+          "value": "Mousse D36"
+        },
+        {
+          "label": "Composition ",
+          "value": "Mousse D36"
+        },
+        {
+          "label": "Hauteur",
+          "value": "20 cm | 25 cm | 30 cm"
+        },
+        {
+          "label": "Fermeté",
+          "value": "équilibré à ferme"
+        },
+        {
+          "label": "Idéal pour",
+          "value": "Ceux qui recherchent plus de tenue que le D30"
+        },
+        {
+          "label": "Points forts",
+          "value": "Plus stable, meilleur maintien, sensation plus rassurante"
+        },
+        {
+          "label": "Double face",
+          "value": "face équilibrée | face ferme"
+        }
+      ]
+    },
+    "variants": [
+      {
+        "legacyId": 4294,
+        "widthMm": 650,
+        "lengthMm": 1800,
+        "heightMm": 200,
+        "amountMinor": 1400000
+      },
+      {
+        "legacyId": 4295,
+        "widthMm": 650,
+        "lengthMm": 1800,
+        "heightMm": 250,
+        "amountMinor": 1600000
+      },
+      {
+        "legacyId": 4296,
+        "widthMm": 650,
+        "lengthMm": 1800,
+        "heightMm": 300,
+        "amountMinor": 1750000
+      },
+      {
+        "legacyId": 4297,
+        "widthMm": 700,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 1500000
+      },
+      {
+        "legacyId": 4298,
+        "widthMm": 700,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 1700000
+      },
+      {
+        "legacyId": 4299,
+        "widthMm": 700,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 2000000
+      },
+      {
+        "legacyId": 4300,
+        "widthMm": 800,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 1650000
+      },
+      {
+        "legacyId": 4301,
+        "widthMm": 800,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 1850000
+      },
+      {
+        "legacyId": 4302,
+        "widthMm": 800,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 2150000
+      },
+      {
+        "legacyId": 4303,
+        "widthMm": 900,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 1800000
+      },
+      {
+        "legacyId": 4304,
+        "widthMm": 900,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 2000000
+      },
+      {
+        "legacyId": 4305,
+        "widthMm": 900,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 2300000
+      },
+      {
+        "legacyId": 4306,
+        "widthMm": 1200,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 2650000
+      },
+      {
+        "legacyId": 4307,
+        "widthMm": 1200,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 2850000
+      },
+      {
+        "legacyId": 4308,
+        "widthMm": 1200,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 3000000
+      },
+      {
+        "legacyId": 4309,
+        "widthMm": 1400,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 2950000
+      },
+      {
+        "legacyId": 4310,
+        "widthMm": 1400,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 3150000
+      },
+      {
+        "legacyId": 4311,
+        "widthMm": 1400,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 3300000
+      },
+      {
+        "legacyId": 4312,
+        "widthMm": 1600,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 3200000
+      },
+      {
+        "legacyId": 4313,
+        "widthMm": 1600,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 3350000
+      },
+      {
+        "legacyId": 4314,
+        "widthMm": 1600,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 3600000
+      },
+      {
+        "legacyId": 4315,
+        "widthMm": 1600,
+        "lengthMm": 2000,
+        "heightMm": 200,
+        "amountMinor": 3300000
+      },
+      {
+        "legacyId": 4316,
+        "widthMm": 1600,
+        "lengthMm": 2000,
+        "heightMm": 250,
+        "amountMinor": 3500000
+      },
+      {
+        "legacyId": 4317,
+        "widthMm": 1600,
+        "lengthMm": 2000,
+        "heightMm": 300,
+        "amountMinor": 3800000
+      },
+      {
+        "legacyId": 4318,
+        "widthMm": 1800,
+        "lengthMm": 2000,
+        "heightMm": 200,
+        "amountMinor": 3600000
+      },
+      {
+        "legacyId": 4319,
+        "widthMm": 1800,
+        "lengthMm": 2000,
+        "heightMm": 250,
+        "amountMinor": 3750000
+      },
+      {
+        "legacyId": 4320,
+        "widthMm": 1800,
+        "lengthMm": 2000,
+        "heightMm": 300,
+        "amountMinor": 4050000
+      },
+      {
+        "legacyId": 4321,
+        "widthMm": 2000,
+        "lengthMm": 2000,
+        "heightMm": 200,
+        "amountMinor": 3850000
+      },
+      {
+        "legacyId": 4322,
+        "widthMm": 2000,
+        "lengthMm": 2000,
+        "heightMm": 250,
+        "amountMinor": 4100000
+      },
+      {
+        "legacyId": 4323,
+        "widthMm": 2000,
+        "lengthMm": 2000,
+        "heightMm": 300,
+        "amountMinor": 4350000
+      }
+    ],
+    "photos": [
+      {
+        "legacyId": 1115,
+        "sourceUrl": "https://empreinteflex.com/product-images/d36-1.png",
+        "path": "apps/storefront/public/images/new mattress/D36 (1).PNG"
+      },
+      {
+        "legacyId": 1116,
+        "sourceUrl": "https://empreinteflex.com/product-images/d36-2.png",
+        "path": "apps/storefront/public/images/new mattress/D36 (2).jpeg"
+      },
+      {
+        "legacyId": 1117,
+        "sourceUrl": "https://empreinteflex.com/product-images/d36-3.png",
+        "path": "apps/storefront/public/images/new mattress/D36 (3).jpeg"
+      }
+    ]
+  },
+  {
+    "legacyId": 3,
+    "slug": "orthoflex-comfort",
+    "name": {
+      "ar": "كونفور أورثوفليكس",
+      "en": "OrthoFlex Comfort",
+      "fr": "Confort OrthoFlex"
+    },
+    "description": {
+      "ar": "مرتبة إسفنج HR توفر توازنا ممتازا بين الراحة والدعم مع ثبات جيد على المدى الطويل وبنية مستقرة.",
+      "en": "HR foam mattress offering a strong balance of comfort and support, with durable performance and stable structure.",
+      "fr": "Matelas en mousse HR offrant un bon équilibre entre confort et maintien, avec une bonne tenue dans le temps et une structure stable."
+    },
+    "categoryCode": "MATTRESS",
+    "featured": false,
+    "discountPercent": "0",
+    "metadata": {
+      "legacySupabaseId": 3,
+      "legacyAvailable": true,
+      "range": "multi-layer",
+      "subcategory": "confort",
+      "categoryTranslations": {
+        "ar": "فئة متعددة الطبقات",
+        "en": "Multi-Layer Range",
+        "fr": "Gamme Multi-couches"
+      },
+      "subcategoryTranslations": {
+        "ar": "كونفورت",
+        "en": "Comfort",
+        "fr": "Confort"
+      },
+      "pricingType": "VARIANT_FULL",
+      "technicalSpecs": [
+        {
+          "label": "Gamme",
+          "value": "Orthopédique"
+        },
+        {
+          "label": "Type",
+          "value": "Mousse Haute Résilience"
+        },
+        {
+          "label": "Confort",
+          "value": "Équilibré à ferme"
+        },
+        {
+          "label": "Soutien",
+          "value": "Moyen à élevé"
+        },
+        {
+          "label": "Technologie",
+          "value": "HR"
+        },
+        {
+          "label": "Composition ",
+          "value": "Mousse Haute Résilience"
+        },
+        {
+          "label": "Hauteur",
+          "value": "20 cm | 25 cm | 30 cm"
+        },
+        {
+          "label": "Fermeté",
+          "value": "Confort moyen avec bon soutien"
+        },
+        {
+          "label": "Idéal pour",
+          "value": "Ceux qui recherchent un bon compromis entre confort et maintien"
+        },
+        {
+          "label": "Points forts",
+          "value": "Bonne résilience, confort stable, durabilité"
+        },
+        {
+          "label": "Double face",
+          "value": "Moyen et Ferme"
+        }
+      ]
+    },
+    "variants": [
+      {
+        "legacyId": 4231,
+        "widthMm": 650,
+        "lengthMm": 1800,
+        "heightMm": 200,
+        "amountMinor": 1950000
+      },
+      {
+        "legacyId": 4232,
+        "widthMm": 650,
+        "lengthMm": 1800,
+        "heightMm": 250,
+        "amountMinor": 2150000
+      },
+      {
+        "legacyId": 4233,
+        "widthMm": 650,
+        "lengthMm": 1800,
+        "heightMm": 300,
+        "amountMinor": 2450000
+      },
+      {
+        "legacyId": 4234,
+        "widthMm": 700,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 2050000
+      },
+      {
+        "legacyId": 4235,
+        "widthMm": 700,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 2250000
+      },
+      {
+        "legacyId": 4236,
+        "widthMm": 700,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 2550000
+      },
+      {
+        "legacyId": 4237,
+        "widthMm": 800,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 2200000
+      },
+      {
+        "legacyId": 4238,
+        "widthMm": 800,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 2400000
+      },
+      {
+        "legacyId": 4239,
+        "widthMm": 800,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 2700000
+      },
+      {
+        "legacyId": 4240,
+        "widthMm": 900,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 2350000
+      },
+      {
+        "legacyId": 4241,
+        "widthMm": 900,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 2550000
+      },
+      {
+        "legacyId": 4242,
+        "widthMm": 900,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 2850000
+      },
+      {
+        "legacyId": 4243,
+        "widthMm": 1200,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 3200000
+      },
+      {
+        "legacyId": 4244,
+        "widthMm": 1200,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 3450000
+      },
+      {
+        "legacyId": 4245,
+        "widthMm": 1200,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 3800000
+      },
+      {
+        "legacyId": 4246,
+        "widthMm": 1400,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 3600000
+      },
+      {
+        "legacyId": 4247,
+        "widthMm": 1400,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 3850000
+      },
+      {
+        "legacyId": 4248,
+        "widthMm": 1400,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 4150000
+      },
+      {
+        "legacyId": 4249,
+        "widthMm": 1600,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 3850000
+      },
+      {
+        "legacyId": 4250,
+        "widthMm": 1600,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 4100000
+      },
+      {
+        "legacyId": 4251,
+        "widthMm": 1600,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 4500000
+      },
+      {
+        "legacyId": 4252,
+        "widthMm": 1600,
+        "lengthMm": 2000,
+        "heightMm": 200,
+        "amountMinor": 4050000
+      },
+      {
+        "legacyId": 4253,
+        "widthMm": 1600,
+        "lengthMm": 2000,
+        "heightMm": 250,
+        "amountMinor": 4300000
+      },
+      {
+        "legacyId": 4254,
+        "widthMm": 1600,
+        "lengthMm": 2000,
+        "heightMm": 300,
+        "amountMinor": 4700000
+      },
+      {
+        "legacyId": 4255,
+        "widthMm": 1800,
+        "lengthMm": 2000,
+        "heightMm": 200,
+        "amountMinor": 4250000
+      },
+      {
+        "legacyId": 4256,
+        "widthMm": 1800,
+        "lengthMm": 2000,
+        "heightMm": 250,
+        "amountMinor": 4500000
+      },
+      {
+        "legacyId": 4257,
+        "widthMm": 1800,
+        "lengthMm": 2000,
+        "heightMm": 300,
+        "amountMinor": 4950000
+      },
+      {
+        "legacyId": 4258,
+        "widthMm": 2000,
+        "lengthMm": 2000,
+        "heightMm": 200,
+        "amountMinor": 4650000
+      },
+      {
+        "legacyId": 4259,
+        "widthMm": 2000,
+        "lengthMm": 2000,
+        "heightMm": 250,
+        "amountMinor": 4900000
+      },
+      {
+        "legacyId": 4260,
+        "widthMm": 2000,
+        "lengthMm": 2000,
+        "heightMm": 300,
+        "amountMinor": 5400000
+      }
+    ],
+    "photos": [
+      {
+        "legacyId": 1118,
+        "sourceUrl": "https://empreinteflex.com/product-images/hero5.png",
+        "path": "apps/storefront/public/images/new mattress/orthoflex/hero5.png"
+      },
+      {
+        "legacyId": 1119,
+        "sourceUrl": "https://empreinteflex.com/product-images/orthoflex-3.png",
+        "path": "apps/storefront/public/images/new mattress/orthoflex/orthoflex-3.png"
+      }
+    ]
+  },
+  {
+    "legacyId": 4,
+    "slug": "viscoflex",
+    "name": {
+      "ar": "فيسكوفليكس",
+      "en": "ViscoFlex",
+      "fr": "ViscoFlex"
+    },
+    "description": {
+      "ar": "مرتبة ميموري فوم بإحساس أكثر نعومة وراحة سطحية أفضل وتكيف أعلى مع شكل الجسم.",
+      "en": "Memory foam mattress with a softer feel, strong surface comfort, and better adaptation to body contours.",
+      "fr": "Matelas visco à mémoire de forme offrant un accueil plus moelleux, un bon confort de surface et une meilleure adaptation aux formes du corps."
+    },
+    "categoryCode": "MATTRESS",
+    "featured": true,
+    "discountPercent": "0",
+    "metadata": {
+      "legacySupabaseId": 4,
+      "legacyAvailable": true,
+      "range": "multi-layer",
+      "subcategory": "visco",
+      "categoryTranslations": {
+        "ar": "فئة متعددة الطبقات",
+        "en": "Multi-Layer Range",
+        "fr": "Gamme Multi-couches"
+      },
+      "subcategoryTranslations": {
+        "ar": "فيسكو",
+        "en": "Visco",
+        "fr": "Visco"
+      },
+      "pricingType": "VARIANT_FULL",
+      "technicalSpecs": [
+        {
+          "label": "Gamme",
+          "value": "Orthopédique"
+        },
+        {
+          "label": "Type",
+          "value": "Mousse à mémoire de forme"
+        },
+        {
+          "label": "Confort",
+          "value": "Accueil moelleux"
+        },
+        {
+          "label": "Soutien",
+          "value": "Équilibré"
+        },
+        {
+          "label": "Technologie",
+          "value": "Viscoélastique"
+        },
+        {
+          "label": "Composition ",
+          "value": "Mousse viscoélastique à mémoire de forme"
+        },
+        {
+          "label": "Hauteur",
+          "value": "20 cm | 25 cm | 30 cm"
+        },
+        {
+          "label": "Fermeté",
+          "value": "Confort doux (mémoire de forme)"
+        },
+        {
+          "label": "Idéal pour",
+          "value": "Ceux qui recherchent plus de douceur et moins de points de pression"
+        },
+        {
+          "label": "Points forts",
+          "value": "Bon enveloppement, confort progressif, bonne isolation des mouvements"
+        },
+        {
+          "label": "Double face",
+          "value": "Doux"
+        }
+      ]
+    },
+    "variants": [
+      {
+        "legacyId": 4171,
+        "widthMm": 650,
+        "lengthMm": 1800,
+        "heightMm": 200,
+        "amountMinor": 2750000
+      },
+      {
+        "legacyId": 4172,
+        "widthMm": 650,
+        "lengthMm": 1800,
+        "heightMm": 250,
+        "amountMinor": 3000000
+      },
+      {
+        "legacyId": 4173,
+        "widthMm": 650,
+        "lengthMm": 1800,
+        "heightMm": 300,
+        "amountMinor": 3400000
+      },
+      {
+        "legacyId": 4174,
+        "widthMm": 700,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 2850000
+      },
+      {
+        "legacyId": 4175,
+        "widthMm": 700,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 3100000
+      },
+      {
+        "legacyId": 4176,
+        "widthMm": 700,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 3500000
+      },
+      {
+        "legacyId": 4177,
+        "widthMm": 800,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 3000000
+      },
+      {
+        "legacyId": 4178,
+        "widthMm": 800,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 3250000
+      },
+      {
+        "legacyId": 4179,
+        "widthMm": 800,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 3650000
+      },
+      {
+        "legacyId": 4180,
+        "widthMm": 900,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 3150000
+      },
+      {
+        "legacyId": 4181,
+        "widthMm": 900,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 3400000
+      },
+      {
+        "legacyId": 4182,
+        "widthMm": 900,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 3800000
+      },
+      {
+        "legacyId": 4183,
+        "widthMm": 1200,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 4650000
+      },
+      {
+        "legacyId": 4184,
+        "widthMm": 1200,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 4900000
+      },
+      {
+        "legacyId": 4185,
+        "widthMm": 1200,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 5400000
+      },
+      {
+        "legacyId": 4186,
+        "widthMm": 1400,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 5100000
+      },
+      {
+        "legacyId": 4187,
+        "widthMm": 1400,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 5300000
+      },
+      {
+        "legacyId": 4188,
+        "widthMm": 1400,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 5800000
+      },
+      {
+        "legacyId": 4189,
+        "widthMm": 1600,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 5450000
+      },
+      {
+        "legacyId": 4190,
+        "widthMm": 1600,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 5700000
+      },
+      {
+        "legacyId": 4191,
+        "widthMm": 1600,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 6100000
+      },
+      {
+        "legacyId": 4192,
+        "widthMm": 1600,
+        "lengthMm": 2000,
+        "heightMm": 200,
+        "amountMinor": 5600000
+      },
+      {
+        "legacyId": 4193,
+        "widthMm": 1600,
+        "lengthMm": 2000,
+        "heightMm": 250,
+        "amountMinor": 5850000
+      },
+      {
+        "legacyId": 4194,
+        "widthMm": 1600,
+        "lengthMm": 2000,
+        "heightMm": 300,
+        "amountMinor": 6300000
+      },
+      {
+        "legacyId": 4195,
+        "widthMm": 1800,
+        "lengthMm": 2000,
+        "heightMm": 200,
+        "amountMinor": 5650000
+      },
+      {
+        "legacyId": 4196,
+        "widthMm": 1800,
+        "lengthMm": 2000,
+        "heightMm": 250,
+        "amountMinor": 5900000
+      },
+      {
+        "legacyId": 4197,
+        "widthMm": 1800,
+        "lengthMm": 2000,
+        "heightMm": 300,
+        "amountMinor": 6500000
+      },
+      {
+        "legacyId": 4198,
+        "widthMm": 2000,
+        "lengthMm": 2000,
+        "heightMm": 200,
+        "amountMinor": 6250000
+      },
+      {
+        "legacyId": 4199,
+        "widthMm": 2000,
+        "lengthMm": 2000,
+        "heightMm": 250,
+        "amountMinor": 6500000
+      },
+      {
+        "legacyId": 4200,
+        "widthMm": 2000,
+        "lengthMm": 2000,
+        "heightMm": 300,
+        "amountMinor": 7050000
+      }
+    ],
+    "photos": [
+      {
+        "legacyId": 1120,
+        "sourceUrl": "https://empreinteflex.com/product-images/ViscoFlex-1.png",
+        "path": "apps/storefront/public/images/new mattress/viscoflex (1).jpeg"
+      },
+      {
+        "legacyId": 1121,
+        "sourceUrl": "https://empreinteflex.com/product-images/ViscoFlex-2.png",
+        "path": "apps/storefront/public/images/new mattress/viscoflex (2).jpeg"
+      },
+      {
+        "legacyId": 1122,
+        "sourceUrl": "https://empreinteflex.com/product-images/ViscoFlex-3.png",
+        "path": "apps/storefront/public/images/new mattress/viscoflex (3).jpeg"
+      },
+      {
+        "legacyId": 1123,
+        "sourceUrl": "https://empreinteflex.com/product-images/ViscoFlex-4.png",
+        "path": "apps/storefront/public/images/new mattress/viscoflex (4).jpeg"
+      },
+      {
+        "legacyId": 1124,
+        "sourceUrl": "https://empreinteflex.com/product-images/ViscoFlex-5.png",
+        "path": "apps/storefront/public/images/new mattress/viscoflex (5).jpeg"
+      },
+      {
+        "legacyId": 1125,
+        "sourceUrl": "https://empreinteflex.com/product-images/ViscoFlex-6.png",
+        "path": "apps/storefront/public/images/new mattress/viscoflex (6).jpeg"
+      },
+      {
+        "legacyId": 1126,
+        "sourceUrl": "https://empreinteflex.com/product-images/ViscoFlex-7.png",
+        "path": "apps/storefront/public/images/new mattress/viscoflex (7).jpeg"
+      },
+      {
+        "legacyId": 1127,
+        "sourceUrl": "https://empreinteflex.com/product-images/ViscoFlex-8.png",
+        "path": "apps/storefront/public/images/new mattress/viscoflex (8).jpeg"
+      }
+    ]
+  },
+  {
+    "legacyId": 5,
+    "slug": "visco-confort",
+    "name": {
+      "ar": "فيسكو كونفور",
+      "en": "Visco Confort",
+      "fr": "Visco Confort"
+    },
+    "description": {
+      "ar": "مرتبة فاخرة تجمع بين النعومة المحتضنة لإسفنج الميموري فوم ودعم عالي المرونة معزّز، نعومة حيث ترغب، وسند ثابت ومتين حيث تحتاج.",
+      "en": "A premium mattress that combines the soft, enveloping feel of memory foam with reinforced-high resilience support,  pressure relief where you want it, firm lasting support where you need it.",
+      "fr": "Un matelas premium qui associe l'accueil moelleux et enveloppant de la mousse à mémoire de forme à un soutien Haute Résilience renforcé, douceur là où vous la souhaitez, maintien ferme et durable là où il le faut."
+    },
+    "categoryCode": "MATTRESS",
+    "featured": false,
+    "discountPercent": "0",
+    "metadata": {
+      "legacySupabaseId": 5,
+      "legacyAvailable": true,
+      "range": "multi-layer",
+      "subcategory": "visco-plus",
+      "categoryTranslations": {
+        "ar": "فئة متعددة الطبقات",
+        "en": "Multi-Layer Range",
+        "fr": "Gamme Multi-couches"
+      },
+      "subcategoryTranslations": {
+        "ar": "فيسكو بلوس",
+        "en": "Visco Plus",
+        "fr": "Visco Plus"
+      },
+      "pricingType": "VARIANT_FULL",
+      "technicalSpecs": [
+        {
+          "label": "Gamme",
+          "value": "Premium orthopédique"
+        },
+        {
+          "label": "Type",
+          "value": "Matelas visco + HR renforcé"
+        },
+        {
+          "label": "Confort",
+          "value": "Accueil moelleux et enveloppant"
+        },
+        {
+          "label": "Soutien",
+          "value": "Équilibré à renforcé"
+        },
+        {
+          "label": "Technologie",
+          "value": "Viscoélastique + HR D36 + HR D45"
+        },
+        {
+          "label": "Composition ",
+          "value": "Mousse viscoélastique + mousse Haute Résilience D36 + mousse HR D45"
+        },
+        {
+          "label": "Hauteur",
+          "value": "25 cm | 30 cm"
+        },
+        {
+          "label": "Fermeté",
+          "value": "Doux avec soutien ferme"
+        },
+        {
+          "label": "Idéal pour",
+          "value": "Ceux qui recherchent confort et soutien avec moins de points de pression"
+        },
+        {
+          "label": "Points forts",
+          "value": "Bon enveloppement, soutien renforcé, bonne durabilité"
+        },
+        {
+          "label": "Double face",
+          "value": "Doux et Ferme"
+        }
+      ]
+    },
+    "variants": [
+      {
+        "legacyId": 4261,
+        "widthMm": 650,
+        "lengthMm": 1800,
+        "heightMm": 200,
+        "amountMinor": 2250000
+      },
+      {
+        "legacyId": 4262,
+        "widthMm": 650,
+        "lengthMm": 1800,
+        "heightMm": 250,
+        "amountMinor": 2450000
+      },
+      {
+        "legacyId": 4263,
+        "widthMm": 650,
+        "lengthMm": 1800,
+        "heightMm": 300,
+        "amountMinor": 2750000
+      },
+      {
+        "legacyId": 4264,
+        "widthMm": 700,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 2350000
+      },
+      {
+        "legacyId": 4265,
+        "widthMm": 700,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 2550000
+      },
+      {
+        "legacyId": 4266,
+        "widthMm": 700,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 2850000
+      },
+      {
+        "legacyId": 4267,
+        "widthMm": 800,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 2500000
+      },
+      {
+        "legacyId": 4268,
+        "widthMm": 800,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 2700000
+      },
+      {
+        "legacyId": 4269,
+        "widthMm": 800,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 3000000
+      },
+      {
+        "legacyId": 4270,
+        "widthMm": 900,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 2650000
+      },
+      {
+        "legacyId": 4271,
+        "widthMm": 900,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 2850000
+      },
+      {
+        "legacyId": 4272,
+        "widthMm": 900,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 3150000
+      },
+      {
+        "legacyId": 4273,
+        "widthMm": 1200,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 3300000
+      },
+      {
+        "legacyId": 4274,
+        "widthMm": 1200,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 3600000
+      },
+      {
+        "legacyId": 4275,
+        "widthMm": 1200,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 4000000
+      },
+      {
+        "legacyId": 4276,
+        "widthMm": 1400,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 3800000
+      },
+      {
+        "legacyId": 4277,
+        "widthMm": 1400,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 4100000
+      },
+      {
+        "legacyId": 4278,
+        "widthMm": 1400,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 4500000
+      },
+      {
+        "legacyId": 4279,
+        "widthMm": 1600,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 4100000
+      },
+      {
+        "legacyId": 4280,
+        "widthMm": 1600,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 4400000
+      },
+      {
+        "legacyId": 4281,
+        "widthMm": 1600,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 4800000
+      },
+      {
+        "legacyId": 4282,
+        "widthMm": 1600,
+        "lengthMm": 2000,
+        "heightMm": 200,
+        "amountMinor": 4250000
+      },
+      {
+        "legacyId": 4283,
+        "widthMm": 1600,
+        "lengthMm": 2000,
+        "heightMm": 250,
+        "amountMinor": 4550000
+      },
+      {
+        "legacyId": 4284,
+        "widthMm": 1600,
+        "lengthMm": 2000,
+        "heightMm": 300,
+        "amountMinor": 4950000
+      },
+      {
+        "legacyId": 4285,
+        "widthMm": 1800,
+        "lengthMm": 2000,
+        "heightMm": 200,
+        "amountMinor": 4400000
+      },
+      {
+        "legacyId": 4286,
+        "widthMm": 1800,
+        "lengthMm": 2000,
+        "heightMm": 250,
+        "amountMinor": 4700000
+      },
+      {
+        "legacyId": 4287,
+        "widthMm": 1800,
+        "lengthMm": 2000,
+        "heightMm": 300,
+        "amountMinor": 5100000
+      },
+      {
+        "legacyId": 4288,
+        "widthMm": 2000,
+        "lengthMm": 2000,
+        "heightMm": 200,
+        "amountMinor": 4800000
+      },
+      {
+        "legacyId": 4289,
+        "widthMm": 2000,
+        "lengthMm": 2000,
+        "heightMm": 250,
+        "amountMinor": 5150000
+      },
+      {
+        "legacyId": 4290,
+        "widthMm": 2000,
+        "lengthMm": 2000,
+        "heightMm": 300,
+        "amountMinor": 5600000
+      },
+      {
+        "legacyId": 4291,
+        "widthMm": 1000,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 2800000
+      },
+      {
+        "legacyId": 4292,
+        "widthMm": 1000,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 3100000
+      },
+      {
+        "legacyId": 4293,
+        "widthMm": 1000,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 3500000
+      }
+    ],
+    "photos": [
+      {
+        "legacyId": 1128,
+        "sourceUrl": "https://empreinteflex.com/product-images/viscoflex.png",
+        "path": "apps/storefront/public/images/new mattress/viscoconfort (1).jpeg"
+      }
+    ]
+  },
+  {
+    "legacyId": 7,
+    "slug": "premium-spring",
+    "name": {
+      "ar": "ريصور بريميوم",
+      "en": "Premium Spring",
+      "fr": "Ressort Premium"
+    },
+    "description": {
+      "ar": "مرتبة بنوابض منفصلة مع طبقة فيسكو لإحساس أولي أنعم وراحة أكثر احتواء مع دعم جيد.",
+      "en": "Pocket spring mattress with a visco layer for a softer first feel, more enveloping comfort, and reliable support.",
+      "fr": "Matelas à ressorts ensachés avec couche visco pour un accueil plus doux, un confort plus enveloppant et un bon maintien."
+    },
+    "categoryCode": "MATTRESS",
+    "featured": true,
+    "discountPercent": "0",
+    "metadata": {
+      "legacySupabaseId": 7,
+      "legacyAvailable": true,
+      "range": "spring",
+      "subcategory": "spring-premium",
+      "categoryTranslations": {
+        "ar": "فئة النوابض",
+        "en": "Spring Range",
+        "fr": "Gamme Ressorts"
+      },
+      "subcategoryTranslations": {
+        "ar": "بريميوم",
+        "en": "Premium",
+        "fr": "Premium"
+      },
+      "pricingType": "VARIANT_FULL",
+      "technicalSpecs": [
+        {
+          "label": "Gamme",
+          "value": "Ressort Premium"
+        },
+        {
+          "label": "Type",
+          "value": "Ressorts ensachés + visco"
+        },
+        {
+          "label": "Confort",
+          "value": "Plus moelleux"
+        },
+        {
+          "label": "Soutien",
+          "value": "Bon maintien"
+        },
+        {
+          "label": "Technologie",
+          "value": "Ressorts ensachés + mémoire de forme"
+        },
+        {
+          "label": "Composition ",
+          "value": "Ressorts ensachés, mousse D36, mousse visco mémoire de forme, autre face mousse D30"
+        },
+        {
+          "label": "Hauteur",
+          "value": "25 cm | 30 cm"
+        },
+        {
+          "label": "Fermeté",
+          "value": "Confort léger avec un excellent soutien"
+        },
+        {
+          "label": "Idéal pour",
+          "value": "Ceux qui aiment un accueil plus doux avec un bon soutien"
+        },
+        {
+          "label": "Points forts",
+          "value": "Accueil confortable, bonne indépendance de couchage, meilleure aération"
+        },
+        {
+          "label": "Double face",
+          "value": " confort doux | plus ferme"
+        }
+      ]
+    },
+    "variants": [
+      {
+        "legacyId": 4150,
+        "widthMm": 900,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 3700000
+      },
+      {
+        "legacyId": 4151,
+        "widthMm": 900,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 4050000
+      },
+      {
+        "legacyId": 4152,
+        "widthMm": 900,
+        "lengthMm": 1900,
+        "heightMm": 350,
+        "amountMinor": 4450000
+      },
+      {
+        "legacyId": 4153,
+        "widthMm": 1200,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 5350000
+      },
+      {
+        "legacyId": 4154,
+        "widthMm": 1200,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 5650000
+      },
+      {
+        "legacyId": 4155,
+        "widthMm": 1200,
+        "lengthMm": 1900,
+        "heightMm": 350,
+        "amountMinor": 6100000
+      },
+      {
+        "legacyId": 4156,
+        "widthMm": 1400,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 5850000
+      },
+      {
+        "legacyId": 4157,
+        "widthMm": 1400,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 6400000
+      },
+      {
+        "legacyId": 4158,
+        "widthMm": 1400,
+        "lengthMm": 1900,
+        "heightMm": 350,
+        "amountMinor": 6850000
+      },
+      {
+        "legacyId": 4159,
+        "widthMm": 1600,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 6600000
+      },
+      {
+        "legacyId": 4160,
+        "widthMm": 1600,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 7150000
+      },
+      {
+        "legacyId": 4161,
+        "widthMm": 1600,
+        "lengthMm": 1900,
+        "heightMm": 350,
+        "amountMinor": 7600000
+      },
+      {
+        "legacyId": 4162,
+        "widthMm": 1600,
+        "lengthMm": 2000,
+        "heightMm": 250,
+        "amountMinor": 6850000
+      },
+      {
+        "legacyId": 4163,
+        "widthMm": 1600,
+        "lengthMm": 2000,
+        "heightMm": 300,
+        "amountMinor": 7400000
+      },
+      {
+        "legacyId": 4164,
+        "widthMm": 1600,
+        "lengthMm": 2000,
+        "heightMm": 350,
+        "amountMinor": 7900000
+      },
+      {
+        "legacyId": 4165,
+        "widthMm": 1800,
+        "lengthMm": 2000,
+        "heightMm": 250,
+        "amountMinor": 7100000
+      },
+      {
+        "legacyId": 4166,
+        "widthMm": 1800,
+        "lengthMm": 2000,
+        "heightMm": 300,
+        "amountMinor": 7650000
+      },
+      {
+        "legacyId": 4167,
+        "widthMm": 1800,
+        "lengthMm": 2000,
+        "heightMm": 350,
+        "amountMinor": 8100000
+      },
+      {
+        "legacyId": 4168,
+        "widthMm": 2000,
+        "lengthMm": 2000,
+        "heightMm": 250,
+        "amountMinor": 7500000
+      },
+      {
+        "legacyId": 4169,
+        "widthMm": 2000,
+        "lengthMm": 2000,
+        "heightMm": 300,
+        "amountMinor": 8000000
+      },
+      {
+        "legacyId": 4170,
+        "widthMm": 2000,
+        "lengthMm": 2000,
+        "heightMm": 350,
+        "amountMinor": 8500000
+      }
+    ],
+    "photos": [
+      {
+        "legacyId": 1129,
+        "sourceUrl": "https://empreinteflex.com/product-images/WhatsApp%20Image%202026-08-25%20at%207.24.57%20PM.jpeg",
+        "path": "apps/storefront/public/images/new mattress/premium-spring/WhatsApp Image 2026-08-25 at 7.24.57 PM.jpeg"
+      }
+    ]
+  },
+  {
+    "legacyId": 8,
+    "slug": "prestige-spring",
+    "name": {
+      "ar": "ريصور بريستيج",
+      "en": "Prestige Spring",
+      "fr": "Ressort Prestige"
+    },
+    "description": {
+      "ar": "مرتبة فاخرة تجمع بين النوابض المنفصلة وطبقة فيسكو وإسفنج HR D45 لتوفير راحة ممتازة ودعما معززا وثباتا أعلى مع الوقت.",
+      "en": "Premium mattress combining pocket springs, visco, and HR D45 foam for comfortable feel, reinforced support, and long-term stability.",
+      "fr": "Matelas premium combinant ressorts ensachés, visco et HR D45 pour offrir un accueil confortable, un soutien renforcé et une meilleure stabilité dans le temps."
+    },
+    "categoryCode": "MATTRESS",
+    "featured": false,
+    "discountPercent": "0",
+    "metadata": {
+      "legacySupabaseId": 8,
+      "legacyAvailable": true,
+      "range": "spring",
+      "subcategory": "spring-prestige",
+      "categoryTranslations": {
+        "ar": "فئة النوابض",
+        "en": "Spring Range",
+        "fr": "Gamme Ressorts"
+      },
+      "subcategoryTranslations": {
+        "ar": "بريستيج",
+        "en": "Prestige",
+        "fr": "Prestige"
+      },
+      "pricingType": "VARIANT_FULL",
+      "technicalSpecs": [
+        {
+          "label": "Gamme",
+          "value": "Ressort Prestige"
+        },
+        {
+          "label": "Type",
+          "value": "Ressorts ensachés + visco + HR"
+        },
+        {
+          "label": "Confort",
+          "value": "Prestige"
+        },
+        {
+          "label": "Soutien",
+          "value": "Ferme et accueillant"
+        },
+        {
+          "label": "Technologie",
+          "value": "Ressorts ensachés + mémoire de forme + HR D45"
+        },
+        {
+          "label": "Composition ",
+          "value": "Ressorts ensachés, mousse visco mémoire de forme, mousse HR D45, autre face mousse D36 + mousse HR D45"
+        },
+        {
+          "label": "Hauteur",
+          "value": "27 cm | 32 cm"
+        },
+        {
+          "label": "Fermeté",
+          "value": "Confort exceptionnel avec un soutien parfait"
+        },
+        {
+          "label": "Idéal pour",
+          "value": "Ceux qui recherchent un confort haut de gamme et un soutien renforcé"
+        },
+        {
+          "label": "Points forts",
+          "value": "Confort premium, excellente tenue, bonne indépendance de couchage, bonne aération"
+        },
+        {
+          "label": "Double face",
+          "value": "confort doux | soutien plus ferme"
+        }
+      ]
+    },
+    "variants": [
+      {
+        "legacyId": 4129,
+        "widthMm": 900,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 4700000
+      },
+      {
+        "legacyId": 4130,
+        "widthMm": 900,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 5150000
+      },
+      {
+        "legacyId": 4131,
+        "widthMm": 900,
+        "lengthMm": 1900,
+        "heightMm": 350,
+        "amountMinor": 5600000
+      },
+      {
+        "legacyId": 4132,
+        "widthMm": 1200,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 6400000
+      },
+      {
+        "legacyId": 4133,
+        "widthMm": 1200,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 6950000
+      },
+      {
+        "legacyId": 4134,
+        "widthMm": 1200,
+        "lengthMm": 1900,
+        "heightMm": 350,
+        "amountMinor": 7450000
+      },
+      {
+        "legacyId": 4135,
+        "widthMm": 1400,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 7650000
+      },
+      {
+        "legacyId": 4136,
+        "widthMm": 1400,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 8250000
+      },
+      {
+        "legacyId": 4137,
+        "widthMm": 1400,
+        "lengthMm": 1900,
+        "heightMm": 350,
+        "amountMinor": 8750000
+      },
+      {
+        "legacyId": 4138,
+        "widthMm": 1600,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 8500000
+      },
+      {
+        "legacyId": 4139,
+        "widthMm": 1600,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 9050000
+      },
+      {
+        "legacyId": 4140,
+        "widthMm": 1600,
+        "lengthMm": 1900,
+        "heightMm": 350,
+        "amountMinor": 9550000
+      },
+      {
+        "legacyId": 4141,
+        "widthMm": 1600,
+        "lengthMm": 2000,
+        "heightMm": 250,
+        "amountMinor": 8750000
+      },
+      {
+        "legacyId": 4142,
+        "widthMm": 1600,
+        "lengthMm": 2000,
+        "heightMm": 300,
+        "amountMinor": 9350000
+      },
+      {
+        "legacyId": 4143,
+        "widthMm": 1600,
+        "lengthMm": 2000,
+        "heightMm": 350,
+        "amountMinor": 9800000
+      },
+      {
+        "legacyId": 4144,
+        "widthMm": 1800,
+        "lengthMm": 2000,
+        "heightMm": 250,
+        "amountMinor": 9200000
+      },
+      {
+        "legacyId": 4145,
+        "widthMm": 1800,
+        "lengthMm": 2000,
+        "heightMm": 300,
+        "amountMinor": 9750000
+      },
+      {
+        "legacyId": 4146,
+        "widthMm": 1800,
+        "lengthMm": 2000,
+        "heightMm": 350,
+        "amountMinor": 10300000
+      },
+      {
+        "legacyId": 4147,
+        "widthMm": 2000,
+        "lengthMm": 2000,
+        "heightMm": 250,
+        "amountMinor": 9750000
+      },
+      {
+        "legacyId": 4148,
+        "widthMm": 2000,
+        "lengthMm": 2000,
+        "heightMm": 300,
+        "amountMinor": 10350000
+      },
+      {
+        "legacyId": 4149,
+        "widthMm": 2000,
+        "lengthMm": 2000,
+        "heightMm": 350,
+        "amountMinor": 10800000
+      }
+    ],
+    "photos": [
+      {
+        "legacyId": 1130,
+        "sourceUrl": "https://empreinteflex.com/product-images/hero1.png",
+        "path": "apps/storefront/public/hero/hero1.png"
+      },
+      {
+        "legacyId": 1131,
+        "sourceUrl": "https://empreinteflex.com/product-images/prestige-1.png",
+        "path": "apps/storefront/public/images/new mattress/prestige (1).jpeg"
+      },
+      {
+        "legacyId": 1132,
+        "sourceUrl": "https://empreinteflex.com/product-images/prestige-2.jpeg",
+        "path": "apps/storefront/public/images/new mattress/prestige (2).jpeg"
+      },
+      {
+        "legacyId": 1133,
+        "sourceUrl": "https://empreinteflex.com/product-images/prestige-3.jpeg",
+        "path": "apps/storefront/public/images/new mattress/prestige (3).jpeg"
+      },
+      {
+        "legacyId": 1134,
+        "sourceUrl": "https://empreinteflex.com/product-images/prestige-5.png",
+        "path": "apps/storefront/public/images/new mattress/prestige (5).jpeg"
+      },
+      {
+        "legacyId": 1135,
+        "sourceUrl": "https://empreinteflex.com/product-images/prestige-6.png",
+        "path": "apps/storefront/public/images/new mattress/prestige (6).jpeg"
+      }
+    ]
+  },
+  {
+    "legacyId": 12,
+    "slug": "d30-mattress",
+    "name": {
+      "ar": "مرتبة D30",
+      "en": "D30 Mattress",
+      "fr": "Matelas D30"
+    },
+    "description": {
+      "ar": "مرتبة إسفنج D30 توفر راحة متوازنة مع دعم متوسط يميل قليلا إلى الصلابة.",
+      "en": "D30 foam mattress offering balanced comfort with medium support leaning slightly firm.",
+      "fr": "Matelas en mousse D30 offrant un confort équilibré avec un soutien moyen qui tend légèrement vers la fermeté."
+    },
+    "categoryCode": "MATTRESS",
+    "featured": false,
+    "discountPercent": "0",
+    "metadata": {
+      "legacySupabaseId": 12,
+      "legacyAvailable": true,
+      "range": "classic",
+      "subcategory": "open",
+      "categoryTranslations": {
+        "ar": "الفئة الكلاسيكية",
+        "en": "Classic Range",
+        "fr": "Gamme Classique"
+      },
+      "subcategoryTranslations": {
+        "ar": "مفتوحة",
+        "en": "Open Form",
+        "fr": "Ouvert"
+      },
+      "pricingType": "VARIANT_FULL",
+      "technicalSpecs": [
+        {
+          "label": "Gamme",
+          "value": "Économique"
+        },
+        {
+          "label": "Type",
+          "value": "Mousse"
+        },
+        {
+          "label": "Confort",
+          "value": "Équilibré"
+        },
+        {
+          "label": "Soutien",
+          "value": "Moyen à légèrement ferme"
+        },
+        {
+          "label": "Technologie | Composition ",
+          "value": "Mousse D30"
+        },
+        {
+          "label": "Hauteur",
+          "value": "20 cm | 25 cm | 30 cm"
+        },
+        {
+          "label": "Fermeté",
+          "value": "Équilibré (confort stable avec un bon maintien)"
+        },
+        {
+          "label": "Idéal pour",
+          "value": "Usage quotidien et budget maîtrisé"
+        },
+        {
+          "label": "Points forts",
+          "value": "Confort simple, bon maintien général, accueil équilibré"
+        },
+        {
+          "label": "Double face",
+          "value": "équilibré des deux côtés"
+        }
+      ]
+    },
+    "variants": [
+      {
+        "legacyId": 4324,
+        "widthMm": 650,
+        "lengthMm": 1800,
+        "heightMm": 200,
+        "amountMinor": 1050000
+      },
+      {
+        "legacyId": 4325,
+        "widthMm": 650,
+        "lengthMm": 1800,
+        "heightMm": 250,
+        "amountMinor": 1250000
+      },
+      {
+        "legacyId": 4326,
+        "widthMm": 650,
+        "lengthMm": 1800,
+        "heightMm": 300,
+        "amountMinor": 1550000
+      },
+      {
+        "legacyId": 4327,
+        "widthMm": 700,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 1150000
+      },
+      {
+        "legacyId": 4328,
+        "widthMm": 700,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 1340000
+      },
+      {
+        "legacyId": 4329,
+        "widthMm": 700,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 1650000
+      },
+      {
+        "legacyId": 4330,
+        "widthMm": 800,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 1300000
+      },
+      {
+        "legacyId": 4331,
+        "widthMm": 800,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 1500000
+      },
+      {
+        "legacyId": 4332,
+        "widthMm": 800,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 1800000
+      },
+      {
+        "legacyId": 4333,
+        "widthMm": 900,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 1450000
+      },
+      {
+        "legacyId": 4334,
+        "widthMm": 900,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 1650000
+      },
+      {
+        "legacyId": 4335,
+        "widthMm": 900,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 1950000
+      },
+      {
+        "legacyId": 4336,
+        "widthMm": 1200,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 2150000
+      },
+      {
+        "legacyId": 4337,
+        "widthMm": 1200,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 2400000
+      },
+      {
+        "legacyId": 4338,
+        "widthMm": 1200,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 2650000
+      },
+      {
+        "legacyId": 4339,
+        "widthMm": 1400,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 2450000
+      },
+      {
+        "legacyId": 4340,
+        "widthMm": 1400,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 2650000
+      },
+      {
+        "legacyId": 4341,
+        "widthMm": 1400,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 2900000
+      },
+      {
+        "legacyId": 4342,
+        "widthMm": 1600,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 2650000
+      },
+      {
+        "legacyId": 4343,
+        "widthMm": 1600,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 2850000
+      },
+      {
+        "legacyId": 4344,
+        "widthMm": 1600,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 3100000
+      },
+      {
+        "legacyId": 4345,
+        "widthMm": 1600,
+        "lengthMm": 2000,
+        "heightMm": 200,
+        "amountMinor": 2700000
+      },
+      {
+        "legacyId": 4346,
+        "widthMm": 1600,
+        "lengthMm": 2000,
+        "heightMm": 250,
+        "amountMinor": 3000000
+      },
+      {
+        "legacyId": 4347,
+        "widthMm": 1600,
+        "lengthMm": 2000,
+        "heightMm": 300,
+        "amountMinor": 3300000
+      },
+      {
+        "legacyId": 4348,
+        "widthMm": 1800,
+        "lengthMm": 2000,
+        "heightMm": 200,
+        "amountMinor": 3000000
+      },
+      {
+        "legacyId": 4349,
+        "widthMm": 1800,
+        "lengthMm": 2000,
+        "heightMm": 250,
+        "amountMinor": 3200000
+      },
+      {
+        "legacyId": 4350,
+        "widthMm": 1800,
+        "lengthMm": 2000,
+        "heightMm": 300,
+        "amountMinor": 3500000
+      },
+      {
+        "legacyId": 4351,
+        "widthMm": 2000,
+        "lengthMm": 2000,
+        "heightMm": 200,
+        "amountMinor": 3300000
+      },
+      {
+        "legacyId": 4352,
+        "widthMm": 2000,
+        "lengthMm": 2000,
+        "heightMm": 250,
+        "amountMinor": 3550000
+      },
+      {
+        "legacyId": 4353,
+        "widthMm": 2000,
+        "lengthMm": 2000,
+        "heightMm": 300,
+        "amountMinor": 3900000
+      }
+    ],
+    "photos": [
+      {
+        "legacyId": 1136,
+        "sourceUrl": "https://empreinteflex.com/product-images/d30-1.png",
+        "path": "apps/storefront/public/images/new mattress/d30/d30-1.png"
+      }
+    ]
+  },
+  {
+    "legacyId": 13,
+    "slug": "hr-d45-comfort",
+    "name": {
+      "ar": "كونفور HR D45",
+      "en": "HR D45 Comfort",
+      "fr": "Confort HR D45"
+    },
+    "description": {
+      "ar": "مرتبة إسفنج HR D45 مصممة لتقديم دعم قوي وثبات ممتاز مع مرور الوقت وراحة مستقرة.",
+      "en": "HR D45 foam mattress designed for firm support, long-lasting shape retention, and stable comfort.",
+      "fr": "Matelas en mousse HR D45 conçu pour offrir un soutien ferme, une bonne tenue dans le temps et un confort stable."
+    },
+    "categoryCode": "MATTRESS",
+    "featured": true,
+    "discountPercent": "0",
+    "metadata": {
+      "legacySupabaseId": 13,
+      "legacyAvailable": true,
+      "range": "multi-layer",
+      "subcategory": "confort",
+      "categoryTranslations": {
+        "ar": "فئة متعددة الطبقات",
+        "en": "Multi-Layer Range",
+        "fr": "Gamme Multi-couches"
+      },
+      "subcategoryTranslations": {
+        "ar": "كونفورت",
+        "en": "Comfort",
+        "fr": "Confort"
+      },
+      "pricingType": "VARIANT_FULL",
+      "technicalSpecs": [
+        {
+          "label": "Gamme",
+          "value": "Orthopédique"
+        },
+        {
+          "label": "Type",
+          "value": "Mousse Haute Résilience"
+        },
+        {
+          "label": "Confort",
+          "value": "Ferme"
+        },
+        {
+          "label": "Soutien",
+          "value": "Élevé"
+        },
+        {
+          "label": "Technologie",
+          "value": "Mousse Haute Résilience D45 + Mousse Agglomérée  "
+        },
+        {
+          "label": "Composition ",
+          "value": "Mousse HR D45 avec couche de renfort en mousse agglomérée  "
+        },
+        {
+          "label": "Hauteur",
+          "value": "25 cm | 30 cm"
+        },
+        {
+          "label": "Fermeté",
+          "value": "Souple à ferme"
+        },
+        {
+          "label": "Idéal pour",
+          "value": "Ceux qui recherchent un soutien renforcé"
+        },
+        {
+          "label": "Points forts",
+          "value": "Excellent maintien, bonne résilience, durabilité supérieure"
+        },
+        {
+          "label": "Double face",
+          "value": "Une souple et une ferme"
+        }
+      ]
+    },
+    "variants": [
+      {
+        "legacyId": 4201,
+        "widthMm": 650,
+        "lengthMm": 1800,
+        "heightMm": 200,
+        "amountMinor": 2500000
+      },
+      {
+        "legacyId": 4202,
+        "widthMm": 650,
+        "lengthMm": 1800,
+        "heightMm": 250,
+        "amountMinor": 2750000
+      },
+      {
+        "legacyId": 4203,
+        "widthMm": 650,
+        "lengthMm": 1800,
+        "heightMm": 300,
+        "amountMinor": 3150000
+      },
+      {
+        "legacyId": 4204,
+        "widthMm": 700,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 2600000
+      },
+      {
+        "legacyId": 4205,
+        "widthMm": 700,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 2850000
+      },
+      {
+        "legacyId": 4206,
+        "widthMm": 700,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 3250000
+      },
+      {
+        "legacyId": 4207,
+        "widthMm": 800,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 2750000
+      },
+      {
+        "legacyId": 4208,
+        "widthMm": 800,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 3000000
+      },
+      {
+        "legacyId": 4209,
+        "widthMm": 800,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 3400000
+      },
+      {
+        "legacyId": 4210,
+        "widthMm": 900,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 2900000
+      },
+      {
+        "legacyId": 4211,
+        "widthMm": 900,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 3150000
+      },
+      {
+        "legacyId": 4212,
+        "widthMm": 900,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 3550000
+      },
+      {
+        "legacyId": 4213,
+        "widthMm": 1200,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 3900000
+      },
+      {
+        "legacyId": 4214,
+        "widthMm": 1200,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 4250000
+      },
+      {
+        "legacyId": 4215,
+        "widthMm": 1200,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 4650000
+      },
+      {
+        "legacyId": 4216,
+        "widthMm": 1400,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 4400000
+      },
+      {
+        "legacyId": 4217,
+        "widthMm": 1400,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 4600000
+      },
+      {
+        "legacyId": 4218,
+        "widthMm": 1400,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 5050000
+      },
+      {
+        "legacyId": 4219,
+        "widthMm": 1600,
+        "lengthMm": 1900,
+        "heightMm": 200,
+        "amountMinor": 4700000
+      },
+      {
+        "legacyId": 4220,
+        "widthMm": 1600,
+        "lengthMm": 1900,
+        "heightMm": 250,
+        "amountMinor": 4950000
+      },
+      {
+        "legacyId": 4221,
+        "widthMm": 1600,
+        "lengthMm": 1900,
+        "heightMm": 300,
+        "amountMinor": 5500000
+      },
+      {
+        "legacyId": 4222,
+        "widthMm": 1600,
+        "lengthMm": 2000,
+        "heightMm": 200,
+        "amountMinor": 4950000
+      },
+      {
+        "legacyId": 4223,
+        "widthMm": 1600,
+        "lengthMm": 2000,
+        "heightMm": 250,
+        "amountMinor": 5200000
+      },
+      {
+        "legacyId": 4224,
+        "widthMm": 1600,
+        "lengthMm": 2000,
+        "heightMm": 300,
+        "amountMinor": 5750000
+      },
+      {
+        "legacyId": 4225,
+        "widthMm": 1800,
+        "lengthMm": 2000,
+        "heightMm": 200,
+        "amountMinor": 5250000
+      },
+      {
+        "legacyId": 4226,
+        "widthMm": 1800,
+        "lengthMm": 2000,
+        "heightMm": 250,
+        "amountMinor": 5500000
+      },
+      {
+        "legacyId": 4227,
+        "widthMm": 1800,
+        "lengthMm": 2000,
+        "heightMm": 300,
+        "amountMinor": 6100000
+      },
+      {
+        "legacyId": 4228,
+        "widthMm": 2000,
+        "lengthMm": 2000,
+        "heightMm": 200,
+        "amountMinor": 5600000
+      },
+      {
+        "legacyId": 4229,
+        "widthMm": 2000,
+        "lengthMm": 2000,
+        "heightMm": 250,
+        "amountMinor": 5850000
+      },
+      {
+        "legacyId": 4230,
+        "widthMm": 2000,
+        "lengthMm": 2000,
+        "heightMm": 300,
+        "amountMinor": 6550000
+      }
+    ],
+    "photos": [
+      {
+        "legacyId": 1137,
+        "sourceUrl": "https://empreinteflex.com/product-images/hrd45-0.png",
+        "path": "apps/storefront/public/images/new mattress/conforthrd45/hrd45-0.png"
+      },
+      {
+        "legacyId": 1138,
+        "sourceUrl": "https://empreinteflex.com/product-images/hrd45-1.png",
+        "path": "apps/storefront/public/images/new mattress/conforthrd45/hrd45-1.png"
+      },
+      {
+        "legacyId": 1139,
+        "sourceUrl": "https://empreinteflex.com/product-images/hrd45-3.png",
+        "path": "apps/storefront/public/images/new mattress/conforthrd45/hrd45-3.png"
+      },
+      {
+        "legacyId": 1140,
+        "sourceUrl": "https://empreinteflex.com/product-images/hrd45-4.png",
+        "path": "apps/storefront/public/images/new mattress/conforthrd45/hrd45-4.png"
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+sequenceDiagram
+    actor Seller
+    participant UI as POS web
+    participant API as NestJS API
+    participant DB as PostgreSQL
+    participant Worker as Outbox worker
+    Seller->>UI: Checkout SKU and payment method
+    UI->>API: POST /v1/pos/sales (Idempotency-Key)
+    API->>API: Check seller + location permissions
+    API->>DB: BEGIN / claim idempotency key
+    API->>DB: Confirm current price and conditional stock decrement
+    alt stock not available
+        DB-->>API: 0 stock rows updated
+        API->>DB: ROLLBACK
+        API-->>UI: 409 OUT_OF_STOCK
+    else stock available
+        API->>DB: Insert order, immutable lines, payment, ledger, audit, outbox
+        API->>DB: COMMIT
+        API-->>UI: Committed sale / receipt number
+        UI-->>Seller: Display / print receipt
+        Worker->>DB: Claim outbox event
+        Worker-->>Seller: Optional receipt email via provider
+    end

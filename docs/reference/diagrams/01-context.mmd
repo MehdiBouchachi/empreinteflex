@@ -1,0 +1,12 @@
+flowchart TB
+    customer[Online customer] --> web[Existing Next.js storefront]
+    employee[Seller / manager / admin] --> staff[Responsive React staff web app]
+    web --> api[NestJS API v1 - modular monolith]
+    staff --> api
+    api --> db[(PostgreSQL - source of truth)]
+    api --> r2[(Cloudflare R2 - media)]
+    api --> providers[Existing payment / delivery / email providers]
+    api --> worker[PostgreSQL outbox worker]
+    worker --> db
+    worker --> providers
+    future[Later: native mobile / hotel portal] -. same API when built .-> api

@@ -1,0 +1,18 @@
+flowchart LR
+    api[HTTP Controllers / DTO / Guards] --> commerce[Commerce use cases]
+    api --> catalog[Catalog use cases]
+    api --> inventory[Inventory use cases]
+    commerce --> inventory
+    commerce --> catalog
+    commerce --> customers[Customers]
+    commerce --> payments[Payments]
+    commerce --> fulfillment[Fulfillment]
+    inventory --> locations[Locations]
+    api --> identity[Identity + RBAC]
+    commerce --> outbox[Outbox / audit / idempotency]
+    catalog --> postgres[(PostgreSQL)]
+    inventory --> postgres
+    commerce --> postgres
+    payments --> postgres
+    outbox --> postgres
+    api -. future add-on modules only when needed .-> b2b[Future B2B / organizations]

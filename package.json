@@ -1,0 +1,13 @@
+{
+  "name": "empreinte-flex-2", "private": true, "version": "0.1.0",
+  "packageManager": "pnpm@9.15.9",
+  "scripts": {
+    "dev:api": "pnpm --filter @ef/api dev",
+    "dev:staff": "pnpm --filter @ef/staff dev",
+    "dev:storefront": "pnpm --filter @ef/storefront dev",
+    "build": "pnpm -r --if-present build",
+    "test": "pnpm --filter @ef/api test",
+    "db:migrate": "pnpm --filter @ef/api db:migrate",
+    "db:seed": "pnpm --filter @ef/api db:seed"
+  }
+}

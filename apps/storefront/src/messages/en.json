@@ -1,0 +1,465 @@
+{
+  "header": {
+    "shopNow": "Shop Now",
+    "menu": "Menu",
+    "navigation": {
+      "home": "Home",
+      "collection": "Collection",
+      "about": "About",
+      "contact": "Contact",
+      "trackOrder": "Track Order"
+    },
+    "language": "Language",
+    "bottomNav": {
+      "home": "Home",
+      "shop": "Shop",
+      "track": "Track",
+      "cart": "Cart"
+    }
+  },
+  "home": {
+    "hero": {
+      "badge": "Premium Sleep Experience",
+      "titleLine1": "Designed for",
+      "titleHighlight": "Deep, Restful Sleep",
+      "description": "Precision-crafted mattresses engineered with breathable layers, adaptive support systems, and refined materials — built to restore your body night after night.",
+      "shop": "Shop Mattresses",
+      "collection": "View Collection",
+      "floatingBadge": "Orthopedic Support",
+      "location": {
+        "eyebrow": "Our showroom",
+        "title": "Come visit us",
+        "description": "P299+F6P, Rte de Sebala, Draria",
+        "openLabel": "Get directions"
+      }
+    },
+    "trust": {
+      "years": {
+        "value": "15+",
+        "label": "Years of Craftsmanship"
+      },
+      "materials": {
+        "value": "Premium",
+        "label": "Materials"
+      },
+      "tech": {
+        "value": "Advanced",
+        "label": "Breathable Technology"
+      },
+      "delivery": {
+        "value": "Nationwide",
+        "label": "Delivery"
+      }
+    },
+    "categories": {
+      "title": "Categories We Serve",
+      "desc": "Crafted collections designed to elevate every sleep experience.",
+      "discover": "Discover Collection"
+    },
+    "products": {
+      "title": "Our Collection",
+      "desc": "Discover mattresses engineered for every sleep style.",
+      "viewAll": "View All",
+      "productCard": {
+        "soldOut": "Sold Out",
+        "price": "Price",
+        "viewProduct": "View Product",
+        "unavailable": "Unavailable"
+      }
+    },
+    "whyLitmad": {
+      "title": "Why Choose Empreinte Flex?",
+      "desc": "Designed with precision engineering and premium materials, Empreinte flex mattresses redefine comfort, durability, and sleep quality.",
+      "statements": [
+        {
+          "title": "Engineered for Alignment",
+          "desc": "Every layer is structured to support natural spine posture while maintaining adaptive comfort."
+        },
+        {
+          "title": "Built to Last",
+          "desc": "High-resilience foam and durable materials preserve shape, performance, and structure over time."
+        },
+        {
+          "title": "Refined Comfort Experience",
+          "desc": "Breathable construction ensures airflow and optimal hygiene night after night."
+        }
+      ],
+      "benefits": [
+        "Perfect Spine Alignment",
+        "High Resilience Foam",
+        "Breathable Structure",
+        "Motion Isolation"
+      ],
+      "trust": [
+        {
+          "value": "15+",
+          "label": "Years of Expertise"
+        },
+        {
+          "value": "98%",
+          "label": "Customer Satisfaction"
+        },
+        {
+          "value": "100%",
+          "label": "Premium Materials"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Where Comfort Becomes a Standard",
+      "desc": "Every night is shaped by precision, support, and quiet luxury — designed to restore your body and elevate your rest.",
+      "button": "Discover Your Comfort"
+    },
+    "location": {
+      "eyebrow": "Come meet us",
+      "title": "Comfort begins with a visit.",
+      "description": "Touch the materials, discover the finishes, and find the support that feels right in our showroom.",
+      "artwork": {
+        "label": "Showroom",
+        "tagline": "A place for better rest.",
+        "mapTitle": "Empreinte Flex showroom map"
+      },
+      "location": {
+        "label": "Empreinte Flex Showroom",
+        "title": "Our showroom in Draria",
+        "description": "Explore our collections in a space designed around your comfort.",
+        "open": "Open in Maps"
+      }
+    }
+  },
+  "mattressesPage": {
+    "breadcrumbHome": "Home",
+    "breadcrumbCurrent": "Mattresses",
+    "title": "All Mattresses",
+    "description": "Explore our full product universe engineered for premium comfort.",
+    "showing": "Showing",
+    "products": "products",
+    "filters": {
+      "category": "Categories",
+      "subcategory": "Subcategories",
+      "type": "Type",
+      "priceRange": "Your Budget",
+      "dimension": "Size",
+      "thickness": "Thickness",
+      "all": "All",
+      "allDimensions": "All Sizes",
+      "reset": "Clear"
+    }
+  },
+  "productPage": {
+    "breadcrumb": {
+      "home": "Home",
+      "collection": "Mattresses",
+      "back": "Back to products"
+    },
+    "size": "Select Size",
+    "quantity": "Quantity",
+    "thickness": "Thickness",
+    "firmness": {
+      "soft": "Soft",
+      "firm": "Firm"
+    },
+    "actions": {
+      "buyNow": "Buy Now",
+      "addToCart": "Add to Cart"
+    },
+    "features": "Technical Specifications",
+    "whyChoose": {
+      "title": "Why Choose This Mattress?",
+      "desc": "Every detail is designed to provide reliable support, long-term durability, and consistent comfort night after night."
+    },
+
+    "faq": "Frequently Asked Questions",
+    "guarantees": "Free delivery • 10-year warranty • Secure checkout"
+  },
+  "cartPage": {
+    "empty": {
+      "title": "Your Cart is Empty",
+      "description": "Looks like you haven’t added anything yet.",
+      "continue": "Continue Shopping"
+    },
+
+    "header": {
+      "title": "Your Cart",
+      "continue": "Continue Shopping"
+    },
+
+    "item": {
+      "size": "Size",
+      "remove": "Remove",
+      "each": "each",
+      "thickness": "Thickness",
+      "save": "Save"
+    },
+
+    "summary": {
+      "title": "Order Summary",
+      "items": "Items",
+      "totalSavings": "Total Savings",
+      "delivery": "Delivery",
+      "free": "Free",
+      "total": "Total",
+      "secure": "Secure order. The order will be confirmed later.",
+      "checkout": "Submit Order"
+    }
+  },
+  "checkoutPage": {
+    "header": {
+      "back": "Back to Cart",
+      "title": "Secure Checkout"
+    },
+
+    "contact": {
+      "title": "Contact Information",
+      "fullName": "Full name",
+      "email": "Email Address",
+      "phone": "Phone Number"
+    },
+
+    "shipping": {
+      "title": "Shipping Address",
+      "wilaya": "Wilaya",
+      "city": "City (optional)",
+      "street": "Street Address (optional)",
+      "mapLink": "Google Maps Link (optional)"
+    },
+
+    "payment": {
+      "title": "Payment Method",
+      "method": "Cash on Delivery",
+      "description": "Pay securely when your order is delivered."
+    },
+
+    "button": {
+      "submit": "Complete Order",
+      "processing": "Processing..."
+    },
+
+    "summary": {
+      "title": "Order Summary",
+      "subtotal": "Subtotal",
+      "total": "Total",
+      "secure1": "✓ Secure order processing",
+      "secure2": "✓ Phone confirmation before delivery",
+      "secure3": "✓ 10-year mattress warranty"
+    },
+
+    "validation": {
+      "required": "Please fill all required fields."
+    }
+  },
+  "orderSuccessPage": {
+    "header": {
+      "title": "Order Confirmed",
+      "description": "Your order has been placed successfully."
+    },
+    "details": {
+      "orderNumber": "Order Number",
+      "total": "Total"
+    },
+    "infoBox": {
+      "line1": "We will contact you shortly to confirm delivery.",
+      "payment": "Payment method:",
+      "paymentMethod": "Cash on Delivery"
+    },
+    "button": "Continue Shopping"
+  },
+  "orderTrackingPage": {
+    "header": {
+      "title": "Track Your Order",
+      "description": "Enter your order number to check the current delivery status."
+    },
+
+    "search": {
+      "placeholder": "Example: LIT-10003",
+      "button": "Track Order",
+      "error": "Order not found. Please verify your ID."
+    },
+
+    "details": {
+      "orderId": "Order ID",
+      "customer": "Customer",
+      "total": "Total"
+    },
+
+    "status": {
+      "unconfirmed": "Unconfirmed",
+      "confirmed": "Confirmed",
+      "in_delivery": "In Delivery",
+      "delivered": "Delivered"
+    },
+
+    "steps": {
+      "placed": "Order Placed",
+      "confirmed": "Confirmed",
+      "inDelivery": "In Delivery",
+      "delivered": "Delivered"
+    },
+
+    "messages": {
+      "unconfirmed": "Your order has been received and is awaiting confirmation.",
+      "confirmed": "Your order has been confirmed and is being prepared.",
+      "in_delivery": "Your mattress is currently out for delivery.",
+      "delivered": "Your order has been successfully delivered."
+    }
+  },
+  "contactPage": {
+    "hero": {
+      "badge": "Contact",
+      "title": "Let’s Begin the Conversation",
+      "description": "Whether you have questions about comfort, materials, or delivery — our team is ready to assist you."
+    },
+
+    "channels": {
+      "title": "Reach us directly",
+      "description": "Pick the channel that suits you best — we usually reply within the hour.",
+      "whatsapp": "WhatsApp",
+      "call": "Call us",
+      "email": "Email",
+      "directions": "Directions"
+    },
+
+    "form": {
+      "title": "Send us a message",
+      "description": "Fill in the form and we'll get back to you shortly.",
+      "fullName": "Full Name",
+      "email": "Email Address",
+      "message": "Message",
+      "button": "Submit Inquiry",
+      "sending": "Sending…",
+      "successTitle": "Message received.",
+      "successMessage": "Thank you for reaching out. We'll be in touch shortly.",
+      "sendAnother": "Send another message",
+      "errors": {
+        "nameRequired": "Please enter your full name.",
+        "nameShort": "Name must be at least 2 characters.",
+        "emailRequired": "Please enter your email address.",
+        "emailInvalid": "Please enter a valid email address.",
+        "messageRequired": "Please write a message.",
+        "messageShort": "Message must be at least 10 characters.",
+        "server": "Something went wrong. Please try again."
+      }
+    },
+
+    "info": {
+      "phone": "Phone",
+      "email": "Email",
+      "location": "Location",
+      "hours": "Working Hours",
+      "hoursValue": "Saturday – Thursday | 9:00 AM – 6:00 PM"
+    },
+
+    "showroom": {
+      "eyebrow": "Visit us",
+      "title": "Come see our showroom",
+      "guideMe": "Guide me",
+      "openMaps": "Open in Maps"
+    }
+  },
+
+  "aboutPage": {
+    "craft": {
+      "eyebrow": "The collection",
+      "title": "Made to be felt. Built to last.",
+      "description": "From the first layer to the final finish, every Empreinte Flex mattress is shaped around one idea: meaningful comfort comes from thoughtful construction.",
+      "collection": "Collection",
+      "detail": "Precision in every layer",
+      "studioEyebrow": "Inside the studio",
+      "studioTitle": "See the craft in motion.",
+      "studioDescription": "Materials, layers, and finishes come together to create a quieter, deeper kind of rest.",
+      "motion": "In motion",
+      "finalEyebrow": "A better way to rest"
+    },
+    "hero": {
+      "badge": "Our Philosophy",
+      "title": "Comfort Is Structured Silence.",
+      "description": "It is the invisible architecture that supports the body — night after night."
+    },
+
+    "frame": {
+      "title": "Every Layer Carries Intention.",
+      "description": "What feels effortless is shaped through calibration, discipline, and repetition."
+    },
+
+    "editorial": {
+      "title": "Engineering Beyond Surface Softness",
+      "lead": "Softness is immediate. Structure is lasting.",
+      "paragraph1": "Our mattresses are engineered to maintain alignment, distribute pressure evenly, and regulate airflow — without losing integrity over time.",
+      "paragraph2": "Comfort is not padding. It is layered architecture."
+    },
+
+    "scale": {
+      "titleLine1": "Built to Scale.",
+      "titleLine2": "Designed to Endure.",
+      "lead": "As infrastructure expanded, precision remained constant.",
+      "paragraph1": "Production evolved. Standards did not.",
+      "paragraph2": "Growth strengthened discipline — it never replaced it."
+    },
+
+    "commitment": {
+      "rest": "REST",
+      "title": "The Commitment",
+      "paragraph1": "We do not manufacture comfort. We construct foundations that support life — quietly, consistently, and without compromise.",
+      "paragraph2": "Because rest should never feel temporary. It should feel certain."
+    },
+
+    "locations": {
+      "badge": "Where We Are",
+      "title": "Visit Empreinte flex",
+      "description": "Experience our craftsmanship in Constantine or explore our showroom in Algiers.",
+      "artwork": {
+        "label": "Showroom",
+        "tagline": "A place for better rest.",
+        "mapTitle": "Empreinte Flex showroom map"
+      },
+
+      "production": {
+        "label": "Production Facility",
+        "title": "Empreinte flex – Constantine",
+        "description": "Our operations and manufacturing center.",
+        "guideMe": "Guide Me",
+        "open": "Open in Maps"
+      },
+
+      "showroom": {
+        "label": "Showroom",
+        "title": "Empreinte flex Showroom – Algiers",
+        "description": "Discover our collections in a refined environment.",
+        "guideMe": "Guide Me",
+        "open": "Open in Maps"
+      }
+    }
+  },
+  "footer": {
+    "brandDescription": "Premium mattress manufacturing focused on durability, precision, and long-term comfort engineered for restorative sleep.",
+
+    "shop": {
+      "title": "Shop",
+      "allMattresses": "All Mattresses",
+      "collections": "Collections",
+      "trackOrder": "Track Order"
+    },
+
+    "company": {
+      "title": "Company",
+      "home": "Home",
+      "about": "About Us",
+      "contact": "Contact"
+    },
+
+    "contact": {
+      "title": "Contact",
+      "phone": "0781 40 44 74",
+      "email": "empreinteflex@gmail.com",
+
+      "location": "Algiers, Algeria"
+    },
+
+    "bottom": {
+      "copyright": "All rights reserved.",
+      "privacy": "Privacy Policy",
+      "terms": "Terms & Conditions",
+      "developedBy": "Designed & developed by"
+    }
+  }
+}

@@ -1,0 +1,462 @@
+{
+  "header": {
+    "shopNow": "Acheter",
+    "menu": "Menu",
+    "navigation": {
+      "home": "Accueil",
+      "collection": "Collection",
+      "about": "À propos",
+      "contact": "Contact",
+      "trackOrder": "Suivi de commande"
+    },
+    "language": "Langue",
+    "bottomNav": {
+      "home": "Accueil",
+      "shop": "Boutique",
+      "track": "Suivi",
+      "cart": "Panier"
+    }
+  },
+  "home": {
+    "hero": {
+      "badge": "L’Art du Sommeil Premium",
+      "titleLine1": "Conçu pour",
+      "titleHighlight": "Un sommeil profond",
+      "description": "Des matelas conçus avec des matières respirantes, un soutien précis et des finitions soignées — pour mieux récupérer, nuit après nuit.",
+      "shop": "Voir les matelas",
+      "collection": "Découvrir la collection",
+      "floatingBadge": "Maintien orthopédique",
+      "location": {
+        "eyebrow": "Notre showroom",
+        "title": "Venez nous rendre visite",
+        "description": "P299+F6P, Rte de Sebala, Draria",
+        "openLabel": "Itinéraire"
+      }
+    },
+    "trust": {
+      "years": {
+        "value": "15+",
+        "label": "Ans d’expertise"
+      },
+      "materials": {
+        "value": "Matériaux",
+        "label": "Premium"
+      },
+      "tech": {
+        "value": "Technologie",
+        "label": "Respirante Avancée"
+      },
+      "delivery": {
+        "value": "Livraison",
+        "label": "Partout en Algérie"
+      }
+    },
+    "categories": {
+      "title": "Nos Catégories",
+      "desc": "Des collections soigneusement conçues pour sublimer chaque expérience de sommeil.",
+      "discover": "Découvrir la Collection"
+    },
+    "products": {
+      "title": "Notre Collection",
+      "desc": "Découvrez des matelas conçus pour chaque style de sommeil.",
+      "viewAll": "Voir plus",
+      "productCard": {
+        "soldOut": "Rupture de stock",
+        "price": "Prix",
+        "viewProduct": "Voir le produit",
+        "unavailable": "Indisponible"
+      }
+    },
+    "whyLitmad": {
+      "title": "Pourquoi choisir Empreinte Flex ?",
+      "desc": "Conçus avec précision et des matériaux premium, les matelas Empreinte flex offrent un confort durable et une qualité de sommeil optimale.",
+      "statements": [
+        {
+          "title": "Soutien et alignement du dos",
+          "desc": "Chaque couche est pensée pour maintenir une posture naturelle du dos tout en garantissant un confort adapté."
+        },
+        {
+          "title": "Conçu pour durer",
+          "desc": "Des mousses haute résilience et des matériaux solides qui gardent leur forme et leurs performances dans le temps."
+        },
+        {
+          "title": "Confort respirant",
+          "desc": "Une structure aérée qui favorise la circulation de l’air pour plus d’hygiène et de fraîcheur chaque nuit."
+        }
+      ],
+      "benefits": [
+        "Alignement parfait du dos",
+        "Mousse haute résilience",
+        "Structure respirante",
+        "Indépendance de couchage"
+      ],
+      "trust": [
+        {
+          "value": "15+",
+          "label": "Ans d’expérience"
+        },
+        {
+          "value": "98%",
+          "label": "Clients satisfaits"
+        },
+        {
+          "value": "100%",
+          "label": "Matériaux premium"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Là où le confort devient une évidence",
+      "desc": "Chaque nuit est pensée avec précision, maintien et élégance — pour offrir à votre corps un repos profond et durable.",
+      "button": "Découvrir votre confort"
+    },
+    "location": {
+      "eyebrow": "Venez nous rencontrer",
+      "title": "Le confort commence par une visite.",
+      "description": "Touchez les matières, découvrez nos finitions et trouvez le soutien qui vous ressemble dans notre showroom.",
+      "artwork": {
+        "label": "Showroom",
+        "tagline": "Un lieu pour mieux dormir.",
+        "mapTitle": "Carte du showroom Empreinte Flex"
+      },
+      "location": {
+        "label": "Showroom Empreinte Flex",
+        "title": "Notre showroom à Draria",
+        "description": "Découvrez nos collections dans un espace pensé pour votre confort.",
+        "open": "Ouvrir dans Maps"
+      }
+    }
+  },
+  "mattressesPage": {
+    "breadcrumbHome": "Accueil",
+    "breadcrumbCurrent": "Matelas",
+    "title": "Tous nos matelas",
+    "description": "Découvrez toute notre collection conçue pour un confort premium.",
+    "showing": "Affichage de",
+    "products": "produits",
+    "filters": {
+      "category": "Catégories",
+      "subcategory": "Sous-catégories",
+      "type": "Types",
+      "priceRange": "Budget",
+      "dimension": "Taille",
+      "thickness": "Épaisseur",
+      "all": "Tout",
+      "allDimensions": "Toutes tailles",
+      "reset": "Effacer"
+    }
+  },
+  "productPage": {
+    "breadcrumb": {
+      "home": "Accueil",
+      "collection": "Matelas",
+      "back": "Retour aux produits"
+    },
+    "size": "Choisir la taille",
+    "quantity": "Quantité",
+    "thickness": "Épaisseur",
+    "firmness": {
+      "soft": "Souple",
+      "firm": "Ferme"
+    },
+    "actions": {
+      "buyNow": "Acheter",
+      "addToCart": "Ajouter au panier"
+    },
+    "features": "Spécifications techniques",
+    "whyChoose": {
+      "title": "Pourquoi choisir ce matelas ?",
+      "desc": "Chaque détail est conçu pour offrir un soutien fiable, une durabilité à long terme et un confort constant nuit après nuit."
+    },
+    "faq": "Questions fréquentes",
+    "guarantees": "Livraison gratuite • Garantie 10 ans • Paiement sécurisé"
+  },
+  "cartPage": {
+    "empty": {
+      "title": "Votre panier est vide",
+      "description": "Vous n’avez encore ajouté aucun produit.",
+      "continue": "Continuer vos achats"
+    },
+
+    "header": {
+      "title": "Votre panier",
+      "continue": "Continuer vos achats"
+    },
+
+    "item": {
+      "size": "Taille",
+      "remove": "Supprimer",
+      "each": "l’unité",
+      "thickness": "Épaisseur",
+      "save": "Économie"
+    },
+
+    "summary": {
+      "title": "Récapitulatif de commande",
+      "items": "Articles",
+      "totalSavings": "Économies totales",
+      "delivery": "Livraison",
+      "free": "Gratuite",
+      "total": "Total",
+      "secure": "Commande sécurisée. La confirmation sera effectuée ultérieurement.",
+      "checkout": "Commander"
+    }
+  },
+  "checkoutPage": {
+    "header": {
+      "back": "Retour au panier",
+      "title": "Paiement sécurisé"
+    },
+
+    "contact": {
+      "title": "Informations de contact",
+      "fullName": "Nom complet",
+      "email": "Adresse e-mail",
+      "phone": "Numéro de téléphone"
+    },
+
+    "shipping": {
+      "title": "Adresse de livraison",
+      "wilaya": "Wilaya",
+      "city": "Ville (optionnel)",
+      "street": "Adresse (optionnel)",
+      "mapLink": "Lien Google Maps (optionnel)"
+    },
+
+    "payment": {
+      "title": "Mode de paiement",
+      "method": "Paiement à la livraison",
+      "description": "Payez en toute sécurité à la réception de votre commande."
+    },
+
+    "button": {
+      "submit": "Finaliser la commande",
+      "processing": "Traitement..."
+    },
+
+    "summary": {
+      "title": "Récapitulatif de commande",
+      "subtotal": "Sous-total",
+      "total": "Total",
+      "secure1": "✓ Traitement sécurisé de la commande",
+      "secure2": "✓ Confirmation téléphonique avant livraison",
+      "secure3": "✓ Garantie matelas 10 ans"
+    },
+
+    "validation": {
+      "required": "Veuillez remplir tous les champs obligatoires."
+    }
+  },
+  "orderSuccessPage": {
+    "header": {
+      "title": "Commande confirmée",
+      "description": "Votre commande a été enregistrée avec succès."
+    },
+    "details": {
+      "orderNumber": "Numéro de commande",
+      "total": "Total"
+    },
+    "infoBox": {
+      "line1": "Nous vous contacterons prochainement pour confirmer la livraison.",
+      "payment": "Mode de paiement :",
+      "paymentMethod": "Paiement à la livraison"
+    },
+    "button": "Continuer vos achats"
+  },
+  "orderTrackingPage": {
+    "header": {
+      "title": "Suivez votre commande",
+      "description": "Entrez votre numéro de commande pour vérifier l'état actuel de la livraison."
+    },
+
+    "search": {
+      "placeholder": "Exemple : LIT-10003",
+      "button": "Suivre la commande",
+      "error": "Commande introuvable. Veuillez vérifier votre numéro."
+    },
+
+    "details": {
+      "orderId": "Numéro de commande",
+      "customer": "Client",
+      "total": "Total"
+    },
+
+    "status": {
+      "unconfirmed": "Non confirmée",
+      "confirmed": "Confirmée",
+      "in_delivery": "En livraison",
+      "delivered": "Livrée"
+    },
+
+    "steps": {
+      "placed": "Commande reçue",
+      "confirmed": "Confirmée",
+      "inDelivery": "En livraison",
+      "delivered": "Livrée"
+    },
+
+    "messages": {
+      "unconfirmed": "Votre commande a été reçue et est en attente de confirmation.",
+      "confirmed": "Votre commande a été confirmée et est en préparation.",
+      "in_delivery": "Votre matelas est actuellement en cours de livraison.",
+      "delivered": "Votre commande a été livrée avec succès."
+    }
+  },
+  "contactPage": {
+    "hero": {
+      "badge": "Contact",
+      "title": "Commençons la conversation",
+      "description": "Que ce soit pour des questions sur le confort, les matériaux ou la livraison — notre équipe est à votre écoute."
+    },
+
+    "channels": {
+      "title": "Contactez-nous directement",
+      "description": "Choisissez le canal qui vous convient — nous répondons généralement dans l'heure.",
+      "whatsapp": "WhatsApp",
+      "call": "Appelez-nous",
+      "email": "E-mail",
+      "directions": "Itinéraire"
+    },
+
+    "form": {
+      "title": "Envoyez-nous un message",
+      "description": "Remplissez le formulaire et nous vous répondrons rapidement.",
+      "fullName": "Nom complet",
+      "email": "Adresse e-mail",
+      "message": "Message",
+      "button": "Envoyer la demande",
+      "sending": "Envoi…",
+      "successTitle": "Message reçu.",
+      "successMessage": "Merci de nous avoir contactés. Nous vous répondrons très vite.",
+      "sendAnother": "Envoyer un autre message",
+      "errors": {
+        "nameRequired": "Veuillez saisir votre nom complet.",
+        "nameShort": "Le nom doit comporter au moins 2 caractères.",
+        "emailRequired": "Veuillez saisir votre adresse e-mail.",
+        "emailInvalid": "Veuillez saisir une adresse e-mail valide.",
+        "messageRequired": "Veuillez écrire un message.",
+        "messageShort": "Le message doit comporter au moins 10 caractères.",
+        "server": "Une erreur est survenue. Veuillez réessayer."
+      }
+    },
+
+    "info": {
+      "phone": "Téléphone",
+      "email": "E-mail",
+      "location": "Localisation",
+      "hours": "Horaires d'ouverture",
+      "hoursValue": "Samedi – Jeudi | 9h00 – 18h00"
+    },
+
+    "showroom": {
+      "eyebrow": "Rendez-nous visite",
+      "title": "Venez découvrir notre showroom",
+      "guideMe": "M'y guider",
+      "openMaps": "Ouvrir dans Maps"
+    }
+  },
+  "aboutPage": {
+    "craft": {
+      "eyebrow": "La collection",
+      "title": "Pensé pour être ressenti. Conçu pour durer.",
+      "description": "De la première couche à la finition, chaque matelas Empreinte Flex est imaginé autour d’une conviction : un confort véritable naît d’une construction maîtrisée.",
+      "collection": "Collection",
+      "detail": "La précision dans chaque couche",
+      "studioEyebrow": "Au cœur du savoir-faire",
+      "studioTitle": "Le savoir-faire en mouvement.",
+      "studioDescription": "Matières, couches et finitions s’assemblent pour créer un repos plus profond et plus serein.",
+      "motion": "En mouvement",
+      "finalEyebrow": "Une meilleure façon de se reposer"
+    },
+    "hero": {
+      "badge": "Notre Philosophie",
+      "title": "Le confort est un silence structuré.",
+      "description": "C’est une architecture invisible qui soutient le corps — nuit après nuit."
+    },
+
+    "frame": {
+      "title": "Chaque couche porte une intention.",
+      "description": "Ce qui paraît naturel est façonné par précision, discipline et répétition."
+    },
+
+    "editorial": {
+      "title": "Une ingénierie au-delà de la douceur",
+      "lead": "La douceur est immédiate. La structure est durable.",
+      "paragraph1": "Nos matelas sont conçus pour maintenir l’alignement, répartir la pression uniformément et réguler la circulation de l’air — sans perdre leur intégrité au fil du temps.",
+      "paragraph2": "Le confort n’est pas un simple rembourrage. C’est une architecture en couches."
+    },
+
+    "scale": {
+      "titleLine1": "Construit pour évoluer.",
+      "titleLine2": "Conçu pour durer.",
+      "lead": "À mesure que l’infrastructure s’est développée, la précision est restée constante.",
+      "paragraph1": "La production a évolué. Les standards, eux, non.",
+      "paragraph2": "La croissance a renforcé la discipline — elle ne l’a jamais remplacée."
+    },
+
+    "commitment": {
+      "rest": "REPOS",
+      "title": "Notre Engagement",
+      "paragraph1": "Nous ne fabriquons pas simplement du confort. Nous construisons des fondations qui soutiennent la vie — discrètement, durablement et sans compromis.",
+      "paragraph2": "Car le repos ne devrait jamais sembler temporaire. Il devrait être certain."
+    },
+
+    "locations": {
+      "badge": "Où Nous Trouver",
+      "title": "Visitez Empreinte flex",
+      "description": "Découvrez notre savoir-faire à Constantine ou explorez notre showroom à Alger.",
+      "artwork": {
+        "label": "Showroom",
+        "tagline": "Un lieu pour mieux dormir.",
+        "mapTitle": "Carte du showroom Empreinte Flex"
+      },
+
+      "production": {
+        "label": "Site de Production",
+        "title": "Empreinte flex – Constantine",
+        "description": "Notre centre d’opérations et de fabrication.",
+        "guideMe": "Itinéraire",
+        "open": "Ouvrir dans Maps"
+      },
+
+      "showroom": {
+        "label": "Showroom",
+        "title": "Showroom Empreinte flex – Alger",
+        "description": "Découvrez nos collections dans un environnement raffiné.",
+        "guideMe": "Itinéraire",
+        "open": "Ouvrir dans Maps"
+      }
+    }
+  },
+  "footer": {
+    "brandDescription": "Fabrication de matelas haut de gamme axée sur la durabilité, la précision et un confort longue durée conçu pour un sommeil réparateur.",
+
+    "shop": {
+      "title": "Boutique",
+      "allMattresses": "Tous les matelas",
+      "collections": "Collections",
+      "trackOrder": "Suivi de commande"
+    },
+
+    "company": {
+      "title": "Entreprise",
+      "home": "Accueil",
+      "about": "À propos",
+      "contact": "Contact"
+    },
+
+    "contact": {
+      "title": "Contact",
+      "phone": "0781 40 44 74",
+      "email": "empreinteflex@gmail.com",
+      "location": "Alger, Algérie"
+    },
+
+    "bottom": {
+      "copyright": "Tous droits réservés.",
+      "privacy": "Politique de confidentialité",
+      "terms": "Conditions générales",
+      "developedBy": "Designé et développé par"
+    }
+  }
+}

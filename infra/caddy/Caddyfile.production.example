@@ -1,0 +1,16 @@
+# Copy to Caddyfile after setting real DNS A records to the VPS.
+# Use exact domain names, do not commit secret values.
+empreinteflex.com, www.empreinteflex.com {
+  encode zstd gzip
+  header Referrer-Policy "strict-origin-when-cross-origin"
+  @backend path /v1/* /health/* /docs /docs/*
+  handle @backend { reverse_proxy api:3000 }
+  handle { reverse_proxy storefront:3000 }
+}
+admin.empreinteflex.com {
+  encode zstd gzip
+  header Referrer-Policy "strict-origin-when-cross-origin"
+  @backend path /v1/* /health/* /docs /docs/*
+  handle @backend { reverse_proxy api:3000 }
+  handle { reverse_proxy staff:80 }
+}
